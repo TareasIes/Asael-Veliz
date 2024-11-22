@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio - Veliz Asael Alejandro</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .content {
+            display: none;
+            font-size: 14px;
+            color: #333;
+            text-align: justify;
+        }
+        .toggle-btn {
+            background-color: #4682b4;
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Portafolio Prácticas Docentes</h1>
+</header>
+
+<nav>
+    <a href="#Introduccion">Introducción</a>
+    <a href="#PuntosPartida">Puntos de Partida</a>
+    <a href="#Contextualizacion">Contextualización</a>    
+    <a href="#Aproximacion">Aproximación a la docencia</a>
+    <a href="#Enseñanza">Enseñanza, aprendizaje y evaluación</a>
+    <a href="#Recursos">Recursos para la enseñanza</a>
+    <a href="#Evaluacion">Evaluación como metacognición</a>
+    <a href="#ResumenFinal">Resumen Final</a>
+</nav>
+
+<section id="Introduccion">
+    <h2>Introducción</h2>
+    <div class="content">
+        <p>El presente documento tiene como propósito reflexionar sobre mi experiencia en el marco de las prácticas docentes y la residencia desarrollada en los niveles inicial y primario. Estas prácticas representan un espacio formativo crucial dentro de mi carrera de Profesorado en Educación Tecnológica, permitiéndome poner en práctica conocimientos teóricos, enfrentar desafíos propios del ámbito educativo y construir una identidad docente. A través de este portafolio, comparto los aprendizajes significativos, retos superados y las perspectivas que han dado forma a mi filosofía educativa, con el objetivo de contribuir a un diálogo profesional enriquecedor sobre la enseñanza y la formación docente.
+</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Introduccion')">Mostrar más</button>
+</section>
+
+<section id="PuntosPartida">
+    <h2>Puntos de Partida, de Llegada y Continuidad</h2>
+    <div class="content">
+        <p>
+<b>¿De dónde vengo?</b> <br> 
+Mi nombre es Veliz Asael Alejandro, soy de la provincia de Catamarca, vivo actualmente en San Isidro departamento Valle Viejo. <br> <br> 
+<b>¿Qué experiencias formativas y aprendizajes significativos traigo?</b><br> 
+Realice toda mi formación en la escuela Gobernador José Cubas, desde nivel inicial hasta secundario y actualmente estoy cursando este 3° año de la carrera del Profesorado en Educación tecnológica. 
+Desde siempre tuve relación con la docencia ya que mis padres ambos son docentes y por lo tanto me vi relacionado con esto. Durante mi paso por la primaria hubo una clase que despertó mi curiosidad en la cual el Profesor de tecnología nos hizo realizar el trabajo de un “velador”, desde entonces mi curiosidad se despertó para intentar saber el como y el porqué del funcionamiento de las cosas.<br> <br> 
+<b>¿Qué retos e interrogantes emergen de estas experiencias y aprendizajes?</b> <br> 
+Los retos e interrogantes que me genera esto es como bien digo, el saber, el cómo y el porqué de las cosas. Teniendo esa curiosidad por saber que hay más allá de todas las tecnologías actuales.
+<br> <br> 
+<b>¿Cómo describiría mi filosofía educativa actual?</b> <br> 
+En mi caso en particular vengo de atravesar una pandemia en medio de mi cursado, el cual no me fue muy eficaz, tanto por razones laborales como de poder adaptarme a cursar desde casa. 
+En el año 2023 decidí volver a cursar y actualmente me encuentro en 3° año sin adeudar materias. Debido a esto considero que la educación debería ser más actualizada y enfocada particularmente en lo que uno se esta formando, con contenidos adaptados al contexto.
+<br> <br> 
+<b>¿Qué avances he tenido en mi proceso formativo?</b> <br> 
+Un avance que tuve fue en mi caso, en el contexto de las practicas docente, ya que me cambio la visión de lo que es un aula. El aprendizaje de los componentes de las practicas docentes, quitando la idea de que solo es ir a dar clases, aprendiendo sobre la planificación que implica y como esta aun planificada puede fallar. 
+<br> <br> 
+<b>¿Qué aprendizajes puedo señalar como los más significativos?</b> <br> 
+Un aprendizaje significativo, me lo da más que todo la parte práctica de las materias, ya que se desplaza un poco de lo teórico habitual, pudiendo generar un nuevo significado a lo teórico anteriormente visto, como también más entusiasmo.
+<br> <br> 
+<b>¿Cómo describiría en estos momentos mi filosofía educativa?</b> <br> 
+Actualmente, para mí, se ha desvirtuado la significancia de la tarea docente. Si bien enfrentar nuevos desafíos como la practica y residencia, y el escenario vivo del aula, generó nuevas expectativas, aun así sigo con dudas de esto.
+<br> <br> 
+<b>¿Qué retos e interrogantes emergen de estos avances y experiencias de aprendizaje significativo? </b><br> 
+Uno de los retos que mas se me presenta, personalmente, es el hecho de toda la planificación y las practicas fuera del aula. Teniendo en cuenta también el contexto socioeconómico influye en mis pensamientos actuales.
+<br> <br> 
+
+<b>¿En qué medida he validado mi filosofía, metas y prácticas educativas? </b><br> 
+Conservo la idea de que la actualización curricular es necesaria para que tanto, la formación docente como la práctica áulica sea verdaderamente significativa, tanto para alumnos como docentes.
+<br> <br> 
+<b>¿En qué medida se han transformado mis prácticas educativas?</b> <br> 
+En el transcurso de este año he obtenido experiencias que han incentivado mas mi gusto por la docencia generando nuevas expectativas profesionales.<br> <br> 
+<b>¿Cuáles son mis metas profesionales?</b> <br> 
+Mis metas son llegar a recibirme y poder marcar a mis alumnos con aportes significativos el cual generen el interés y curiosidad con la cual yo empecé este transcurso.<br> <br> 
+<b>¿Hacia dónde me dirijo?</b> <br> 
+Mi futuro es incierto, pero en este caso aspiro a ser un buen docente y significativo.  <br> 
+</p>
+
+<a href="https://drive.google.com/drive/folders/13Hs4zezg0ti1lcVVu-HpVHH1axwv5YWj" target="_blank">Evidencia solicitada</a>
+
+    </div>
+
+    <button class="toggle-btn" onclick="toggleContent('PuntosPartida')">Mostrar más</button>
+</section>
+
+<section id="Contextualizacion">
+    <h2>Contextualización</h2>
+    <div class="content">
+        <p>Las practicas docentes las realice en la Escuela Municipal n°1 “María Emilia Azar” ubicada en la localidad de San Isidro, a metros de la plaza principal “Gral. San Martin”. La escuela se encuentra en un contexto urbano. El edificio cuenta con jardín de infantes, primer y segundo ciclo de primaria, secundaria y presta el edificio para el nivel terciario de otra institución. La escuela primaria cuenta con tres secciones dando una totalidad de 18 grados. 
+Las practicas sucedieron en el nivel primario en el turno mañana, en la catedra “tecnología”; a la hora de la división de grados me toco para observaciones: 3° I, 4° I y 5° II, para las prácticas y residencias, me tocó realizarlas en 4° I y 2° I, para abarcar tanto primer ciclo como segundo ciclo. Siendo todos grupos heterogéneos tanto en edad, contexto, niveles educativos, presentó un desafío para adaptación para las practicas.
+</p>
+<a href="https://drive.google.com/drive/folders/1oQDnGqeGLKrFkofbCrvvV99JsVQ0meKF">Evidencia solicitada</a>
+
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Contextualizacion')">Mostrar más</button>
+</section>
+
+<section id="Aproximacion">
+    <h2>Aproximación a la docencia</h2>
+    <div class="content">
+        <p>Desde mi punto de vista la docencia es un trabajo muy complicado, poco valorado y mal remunerado. Es complicado ya que no es solo el trabajo dentro del aula, sino también horas extracurriculares de planificaciones y gastos, tanto económicos como mentales que esto conlleva. Siendo hijo de docentes, viví de primera mano estos aspectos; ahora estudiando en la formación docente vuelvo a reafirmar lo anteriormente dicho. 
+            <br> Desde la investigación, la adaptación y la necesidad de implementar nuevas estrategias, recursos y modalidades atractivas para el alumno de hoy, pasando por el hecho de que los profesores no tienen un solo grupo, hasta las diferencias que envuelven cada contexto escolar, este trabajo se ve multiplicado, sumado a esto todas las cuestiones burocráticas que involucran la práctica docente, sin dejar de lado todos los factores humanos que están involucrados. Considero que la carrera docente, requiere indudablemente de vocación, practica y sacrificio.</p>
+<a href="https://drive.google.com/drive/folders/1eISLFdfx50WBaSUA0pQGlaAj1MS6mOI4" target="_blank">Evidencia solicitada</a>
+
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Aproximacion')">Mostrar más</button>
+</section>
+
+
+<section id="Enseñanza">
+    <h2>Enseñanza, aprendizaje y evaluación</h2>
+    <div class="content">
+        <p>
+        <li>  A la hora de comenzar con las practicas en el aula, en ambos cursos, tanto como 2° I y 4° I, se siguió un orden de Inicio, desarrollo y cierre. Implementé en primera instancia la estrategia de llevar fotocopias para facilitar las actividades y optimizar el tiempo. En el caso de 4° grado, en la tercera clase los alumnos presentaron su opinión sobre esta estrategia implementada, haciendo el comentario de “¿otra vez fotocopia?” por lo tanto tuve que implementar el dictado como estrategia nueva.</li>
+<li> Lo que si fue bien aceptado en ambos cursos fueron las clases prácticas, en las cuales realizábamos actividades manuales y comparábamos entre compañeros. Tanto en su inicio de la actividad como al final a la hora de presentar cada uno su trabajo fue bien aceptado.</li>
+<li>  A la hora de evaluar se llevó a cabo una revisión de los trabajos prácticos elaborados y una puesta en común siempre para saber si los contenidos fueron comprendidos correctamente.
+</li></ul></p>
+
+<a href="https://drive.google.com/drive/folders/1BrEIaACJf9U28W1exvnOOPUQ62BgjfiL" target="_blank">Evidencia solicitada</a>
+
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Enseñanza')">Mostrar más</button>
+</section>
+
+<section id="Recursos">
+    <h2>Recursos para la enzeñanza</h2>
+    <div class="content">
+       
+<a href="https://open.spotify.com/episode/7LRvVVYnU8SEb9ePk865tH?si=KWnnnfbnQxqpu513hWMcCw" target="_blank"> Link de Podcast sobre Remixar los recusos. </a>
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Recursos')">Mostrar más</button>
+</section>
+
+<section id="Evaluacion">
+    <h2>Evaluación como metacognición</h2>
+    <div class="content">
+        <p><b>¿Qué aprendiste en esta instancia de formación continua?</b><br>
+Es esta instancia rescato aspectos principales como la importancia que una practica docente tiene a la hora de enseñar, a tener siempre en cuenta el contexto y el grupo de alumnos, planificar en tiempo y forma, ya que esto nos ayuda a tener de una manera organizada una secuencia de pasos a realizar. Aprendí y conocí, lo que es llevar el intercambio constante entre docente y alumno. Ante todo, saber manejar situaciones que se salen de control y poder retomar con mis actividades, sabiendo que siempre por más planificación que haya, pueden cambiar las cosas por situaciones externas.<br><br>
+<b>•   ¿Para qué te ha servido?</b><br>
+Esto me sirvió para poder generar la confianza en uno mismo a la hora de presentarse ante un grupo de alumnos, saber como enseñar, planificar y buscar nuevas estrategias atractivas para los alumnos, donde el conocimiento se torne atractivo e interesante.<br><br>
+<b>•   ¿Qué resultó más fácil, más difícil, más novedoso?<br></b>
+En particular me resultó más fácil el poder adaptar los temas según el curso a enseñar, también, me resultó fácil el adaptarme y relacionarme con los estudiantes.
+Por parte de lo más difícil, en lo personal, lo que más difícil me resultó fue adaptarme a los horarios y días de las practicas, como así también poder armar las respectivas secuencias debido al poco tiempo por razones personales.
+En cuanto a lo novedoso, me sorprendió la cantidad y calidad de contenidos que los alumnos tenían por desarrollar según sus cuadernillos; ya que en primera instancia pensé y creí, que estos contenidos serían más básicos con respecto a sus edades.<br><br>
+<b>•   ¿Qué aprendiste?<br></b>
+De estas practicas docentes, me llevo un aprendizaje en cuanto a la responsabilidad y dedicación que cada actividad se merece. Como así también entender que el rol de docente no es solo introducir contenido en los alumnos a modo de enseñanza, sino también, se trata acompañar y saber adaptarnos a las realidades de cada estudiante, comprendiendo y valorando cada esfuerzo, sin dejar de lado nuestro objetivo.<br><br>
+<b>•   ¿Qué dejas, de que te despojaste?<br></b>
+En particular dejo atrás el miedo a presentarme y enseñar ante un grupo de alumnos, esto no quiere decir que no me siga generando nervios, pero dejo esa incertidumbre de no saber como actuar ante esta situación. <br><br>
+<b>•   ¿Cuál trabajo de los que realizaste fue el más logrado?<br></b>
+El trabajo que realicé y noté que fue el mas logrado, fue “procesos productivos”, en el cual me centraba en particular con le proceso de la fabricación del ladrillo. En este trabajo pude ver el interés y entusiasmo por parte de los alumnos a la hora de abordar el tema desde un comienzo. Esto sucedió también a la hora de llevar a la practica este proceso productivo, ya que los alumnos se vieron entusiasmados de trabajar con un material como lo es el 
+“arcilla”, algunos por primera vez, otros no, pero el interés fue general y gratificante.<br><br>
+<b>•   ¿Qué preguntas construiste? ¿Que certezas tenes?<br></b>
+La pregunta mas frecuente, a la salida de cada clase era ¿Logré llegar a alcanzar los objetivos que me propuse? ¿Las estrategias que implemente funcionaron? Preguntas que continúan vigentes. Pero por otra parte la certeza de la demostración de que los chicos adoptaban de forma firme estos conocimientos. También algo gratificante fue tener el reconocimiento de los alumnos dentro y fuera del establecimiento, lo cual me llegó a dar más satisfacción y certeza de las clases que daba.
+
+</p>
+
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('Evaluacion')">Mostrar más</button>
+</section>
+
+<section id="ResumenFinal">
+    <h2>Resumen Final</h2>
+    <div class="content">
+        <p>A lo largo de este portafolio, he analizado diversos aspectos fundamentales de mi proceso formativo, incluyendo la planificación, la evaluación y la interacción con los estudiantes en contextos reales. Las experiencias vividas durante las prácticas docentes han reafirmado la importancia de adaptar los contenidos a las necesidades de los alumnos y a los desafíos del contexto en el que se presentan, integrando estrategias innovadoras que despierten su interés y curiosidad. <br><br>
+Entre los aprendizajes más significativos destacan el valor de la flexibilidad, la importancia del vínculo docente-estudiante y la necesidad de una constante actualización profesional por parte del docente. Este recorrido fue una ayuda para afirmar mi visión de la docencia como una tarea compleja pero profundamente gratificante, orientada no solo a la transmisión de conocimientos, sino también al acompañamiento de los estudiantes en su desarrollo personal y académico.
+
+</p>
+
+<a href="https://drive.google.com/drive/folders/1Hwe6dtHLYWSXa0G1cK514glKbnrPMgSg" target="_blank"> Link de Portafolio en Drive </a>
+    </div>
+    <button class="toggle-btn" onclick="toggleContent('ResumenFinal')">Mostrar más</button>
+</section>
+
+<footer>
+    <p>&copy; 2024 - Portafolio creado por Veliz Asael Alejandro</p>
+</footer>
+
+<script>
+function toggleContent(sectionId) {
+    var section = document.getElementById(sectionId).querySelector(".content");
+    var button = section.nextElementSibling;
+    if (section.style.display === "none" || section.style.display === "") {
+        section.style.display = "block";
+        button.textContent = "Mostrar menos";
+    } else {
+        section.style.display = "none";
+        button.textContent = "Mostrar más";
+    }
+}
+</script>
+</body>
+</html>
